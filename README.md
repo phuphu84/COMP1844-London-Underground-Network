@@ -60,7 +60,7 @@ jupyter notebook
 Open the following file:
 
 ```text
-cw.ipynb
+main.ipynb
 ```
 
 Select:
@@ -69,12 +69,12 @@ Select:
 Run All
 ```
 
-Alternatively, open `cw.ipynb` in Visual Studio Code and select
+Alternatively, open `main.ipynb` in Visual Studio Code and select
 **Run All**.
 
 ## Project Files
 
-- `cw.ipynb`: complete source code for Tasks 1, 2 and 3.
+- `main.ipynb`: complete source code for Tasks 1, 2 and 3.
 - `standard-tube-map.pdf`: TfL map used as a visual reference.
 - `notebook_outputs/`: generated visualisation images.
 - `requirements.txt`: required Python libraries.
