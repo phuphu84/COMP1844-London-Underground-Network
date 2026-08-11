@@ -75,7 +75,6 @@ Alternatively, open `main.ipynb` in Visual Studio Code and select
 ## Project Files
 
 - `main.ipynb`: complete source code for Tasks 1, 2 and 3.
-- `standard-tube-map.pdf`: TfL map used as a visual reference.
 - `notebook_outputs/`: generated visualisation images.
 - `requirements.txt`: required Python libraries.
 
